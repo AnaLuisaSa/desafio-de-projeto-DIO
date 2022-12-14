@@ -1,0 +1,13 @@
+O Git foi desenvolvido pelo Linus Torvalds e é utilizado com a finalidade de criar/controlar o histórico de alterações de códigos-fontes. 
+Allguns comandos:
+Crlt + l : limpa o terminal
+cd : entra na pasta
+cd.. : volta 1 nível
+ls : lista arquivos do local 
+ls -a: mostra arquivos ocultos
+mkdir : criar pasta
+git init: inicializa um repositorio .git (oculto) dentro da pasta 
+
+Link para download: https://git-scm.com/downloads
+
+O Github é um repositorio remoto para hospedagem de código-fonte e arquivos com controle de versão usando o Git e funciona como uma espécie de gerenciador de projetos em nuvem
